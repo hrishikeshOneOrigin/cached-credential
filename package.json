@@ -1,12 +1,12 @@
 {
-  "name": "@oo/cached-credentials",
+  "name": "cached-credentials",
   "version": "1.0.0",
   "description": "Cache credentials for the application",
   "keywords": [
     "cache",
     "credentials",
     "oo",
-    "one-origin",
+    "oneorigin",
     "one",
     "origin"
   ],
@@ -18,5 +18,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Azharuddin Sirajuddin <azhar@oneorigin.us>"
+  "author": "Azharuddin Sirajuddin <azhar@oneorigin.us>",
+  "contributors": [
+    {
+      "name": "Hrishikesh Reddy Tolmamdi",
+      "email": "hrishikesh@oneorigin.us"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-OO:hrishikeshOneOrigin/cached-credentials.git"
+  }
 }
