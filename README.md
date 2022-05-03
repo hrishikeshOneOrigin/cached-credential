@@ -28,7 +28,7 @@ credential.isExpired("secretCredentailName");
 
 ## Description
 
-- **expiry**: Expiration time of the credentials in seconds.
-- **source**: A helper function that fetches the credentials from the source location.
-- **get()**: Get the credentials from the source location if expired or from cache if not expired.
-- **isExpired()**: Return a boolean indicating whether the credentials are expired or not.
+- **expiry** : Expiration time of the credentials in seconds.
+- **source** : A helper function that fetches the credentials from the source location.
+- **get()** : Get the credentials from the source location if expired or from cache if not expired.
+- **isExpired()** : Return a boolean indicating whether the credentials are expired or not.
