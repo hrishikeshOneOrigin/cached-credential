@@ -1,5 +1,5 @@
 {
-  "name": "cached-credentials",
+  "name": "@oneorigin/cached-credential",
   "version": "1.0.0",
   "description": "Cache credentials for the application",
   "keywords": [
@@ -20,13 +20,14 @@
   },
   "author": "Azharuddin Sirajuddin <azhar@oneorigin.us>",
   "contributors": [
-    {
-      "name": "Hrishikesh Reddy Tolmamdi",
-      "email": "hrishikesh@oneorigin.us"
-    }
+    "Hrishikesh Reddy Tolmamdi <hrishikesh@oneorigin.us>"
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com-OO:hrishikeshOneOrigin/cached-credentials.git"
-  }
+    "url": "git+https://github.com/hrishikeshOneOrigin/cached-credential.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hrishikeshOneOrigin/cached-credential/issues"
+  },
+  "homepage": "https://github.com/hrishikeshOneOrigin/cached-credential#readme"
 }
