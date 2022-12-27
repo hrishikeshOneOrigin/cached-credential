@@ -12,18 +12,18 @@ npm i @oneorigin/cached-credential
 ## Usage
 
 ```javascript
-const CachedCredential = require("@oneorigin/cached-credential");
+const CachedCredential = require('@oneorigin/cached-credential');
 
 const credential = new CachedCredential({
   secretCredentailName: {
     expiry: secretExpiry,
-    source: helper.getToken,
-  },
+    source: helper.getToken
+  }
 });
 
-credential.get("secretCredentialName");
+credential.get('secretCredentialName');
 
-credential.isExpired("secretCredentialName");
+credential.isExpired('secretCredentialName');
 ```
 
 ## Description
